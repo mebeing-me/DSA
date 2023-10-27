@@ -1,2 +1,2 @@
 # DSA
-Algorithm related tress and graphs
+Algorithm related to tress and graphs
